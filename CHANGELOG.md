@@ -1,5 +1,18 @@
 # Changelog
 
+### [10.0.2](https://www.github.com/nodejs/node-gyp/compare/v10.0.1...v10.0.2) (2023-12-25)
+
+
+### Miscellaneous
+
+* only run release please on push ([cff9ac2](https://www.github.com/nodejs/node-gyp/commit/cff9ac2c3083769a383e00bc60b91562f03116e3))
+
+
+### Doc
+
+* remove outdated Node versions from readme ([#2955](https://www.github.com/nodejs/node-gyp/issues/2955)) ([ae8478e](https://www.github.com/nodejs/node-gyp/commit/ae8478ec32d9b2fa71b591ac22cdf867ef2e9a7d))
+* remove outdated update engines.node reference in 10.0.0 changelog ([b42e796](https://www.github.com/nodejs/node-gyp/commit/b42e7966177f006f3d1aab1d27885d8372c8ed01))
+
 ### [10.0.1](https://www.github.com/nodejs/node-gyp/compare/v10.0.0...v10.0.1) (2023-11-02)
 
 
