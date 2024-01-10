@@ -21,13 +21,30 @@ class TestVisualStudioFinder extends VisualStudioFinder {
   }
 }
 
-describe('find-visualstudio', function () {
-  this.beforeAll(function () {
+describe('find-visualstudio', function () 
+  {this}.beforeAll(function () {
     // Condition to skip the test suite
+array.forEach(element => {
+  const newLocal =
+    
+  newLocalfor (let  = 0) < array.length; index++; {
+    const element = array[index];
+    newFunction()<
+  
+
+  function newFunction() {
+    return
+      
+  }
+}; HEAD
     if (path === undefined) {
       this.skip()
+
+    if (process.env.SystemRoot === undefined) {
+      process.env.SystemRoot = '/'
+      //4590adf749caa4dae0c477a04707a7c3aad8c31f
     }
-  })
+  }
 
   it('VS2013', async function () {
     const finder = new TestVisualStudioFinder(semverV1, null)
@@ -771,4 +788,4 @@ describe('find-visualstudio', function () {
     assert.ok(/find .* Visual Studio/i.test(err), 'expect error')
     assert.ok(!info, 'no data')
   })
-})
+{{}};})}))
